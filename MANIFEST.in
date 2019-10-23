@@ -2,3 +2,4 @@
 include drivel/creds/credentials.json
 
 include README.md
+include LICENSE

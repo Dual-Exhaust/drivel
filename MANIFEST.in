@@ -1,2 +1,4 @@
 # Credentials file that will link to the Google app
 include drivel/creds/credentials.json
+
+include README.md

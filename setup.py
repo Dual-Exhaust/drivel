@@ -8,7 +8,7 @@ setup(name='drivel',
     author_email='kylecsacco@gmail.com',
     license='MIT',
     packages=['drivel'],
-    scripts=['bin/drlist', 'bin/drget'],
+    scripts=['bin/drlist', 'bin/drget', 'bin/drsetup'],
     install_requires=[
         'google-api-python-client',
         'google-auth',

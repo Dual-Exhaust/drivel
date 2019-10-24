@@ -1,0 +1,6 @@
+#!/usr/bin/python
+import drivel
+
+print('Before you can begin to use drivel you must perform a setup at https://console.developers.google.com to get the credentials to run this app.\nFor more information on the setup please refer to the README.md file.')
+print('The credentials.json file that you need to change can be found here.')
+print('>> ' + drivel.__file__[:-11] + 'creds')
